@@ -29,7 +29,7 @@ int main() {
         return 0;
       }else{
         if(enemy == 2 & resrps == 1|enemy == 3 & resrps == 2|enemy == 1 & resrps == 3) {
-          printf("I won!");
+          printf("I won!\n");
           return 0;
         }
       }
